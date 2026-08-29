@@ -1,6 +1,10 @@
 # Mukid Valsangkar
 **Aerospace & Mechanical Engineer | Astrodynamics, Structural Dynamics & Space Autonomy**  
 Cranfield University, United Kingdom  
+[![Cranfield University](https://img.shields.io/badge/Cranfield_University-MSc_Astronautics_and_Space_Engineering-002D62?style=flat-square)](https://cranfield.ac.uk)
+<!-- 
+[![Degree](https://img.shields.io/badge/Graduation-Distinction-green?style=flat-square)](https://cranfield.ac.uk)
+-->
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukid-valsangkar)
@@ -14,7 +18,7 @@ Cranfield University, United Kingdom
 
 ## Profile Summary
 
-Aerospace Engineer with an MSc in Astronautics and Space Engineering (Distinction) and a foundational degree in Mechanical Engineering. Specializes in high-fidelity orbital propagation, non-linear structural dynamics, space propulsion hardware design, and autonomous multi-agent exploration systems. Experienced across computational modeling, finite element analysis (FEA), hands-on Assembly, Integration, and Testing (AIT), and concurrent engineering. Co-author of peer-reviewed space robotics research presented at IAC and ESA ASTRA.
+Aerospace Engineer with an MSc in Astronautics and Space Engineering and a bachelor's degree in Mechanical Engineering. Specializes in high-fidelity orbital propagation, non-linear structural dynamics, space propulsion hardware design, and autonomous multi-agent exploration systems. Experienced across computational modeling, finite element analysis (FEA), hands-on Assembly, Integration, and Testing (AIT), and concurrent engineering. Co-author of peer-reviewed space robotics research presented at IAC and ESA ASTRA.
 
 ---
 
