@@ -24,12 +24,41 @@ Aerospace Engineer with an MSc in Astronautics and Space Engineering and a bache
 
 ## Technical Competencies
 
-* **Programming & Computation:** Python, MATLAB, C, Linux, Git / GitHub CI/CD
+### Programming & Numerical Computing
+[![Python](https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![MATLAB](https://img.shields.io/badge/MATLAB-181717?style=flat-square&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
+[![C](https://img.shields.io/badge/C-181717?style=flat-square&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
+[![Linux](https://img.shields.io/badge/Linux-181717?style=flat-square&logo=linux&logoColor=white)](https://www.kernel.org/)
+[![Git](https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-181717?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+
+### Astrodynamics & Space Mission Design
+[![Ansys STK](https://img.shields.io/badge/Ansys_STK-181717?style=flat-square&logo=ansys&logoColor=white)](https://www.ansys.com/products/missions/ansys-stk)
+[![ESATAN-TMS](https://img.shields.io/badge/ESATAN--TMS-181717?style=flat-square)](https://www.itp-engines.co.uk/esatan-tms/)
+[![ESA COMET](https://img.shields.io/badge/ESA_COMET-181717?style=flat-square)](https://www.esa.int/)
+
+### CAD, Mechanical Design & AIT
+[![SolidWorks](https://img.shields.io/badge/SolidWorks-181717?style=flat-square&logo=dassaultsystemes&logoColor=white)](https://www.solidworks.com/)
+[![CATIA](https://img.shields.io/badge/CATIA-181717?style=flat-square&logo=dassaultsystemes&logoColor=white)](https://www.3ds.com/products-services/catia/)
+[![Siemens NX](https://img.shields.io/badge/Siemens_NX-181717?style=flat-square&logo=siemens&logoColor=white)](https://plm.sw.siemens.com/en-US/nx/)
+[![Autodesk Inventor](https://img.shields.io/badge/Autodesk_Inventor-181717?style=flat-square&logo=autodesk&logoColor=white)](https://www.autodesk.com/)
+[![AutoCAD](https://img.shields.io/badge/AutoCAD-181717?style=flat-square&logo=autodesk&logoColor=white)](https://www.autodesk.com/)
+
+### CAE, FEA & Thermal Simulation
+[![ANSYS Mechanical](https://img.shields.io/badge/ANSYS_Mechanical-181717?style=flat-square&logo=ansys&logoColor=white)](https://www.ansys.com/)
+[![Altair OptiStruct](https://img.shields.io/badge/Altair_OptiStruct-181717?style=flat-square&logo=altair&logoColor=white)](https://altair.com/optistruct)
+
+### Robotics, Vision & Embedded Systems
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi_4B-181717?style=flat-square&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.com/)
+[![Arduino](https://img.shields.io/badge/Arduino_Uno-181717?style=flat-square&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![YOLOv11](https://img.shields.io/badge/YOLOv11x-181717?style=flat-square&logo=ultralytics&logoColor=white)](https://docs.ultralytics.com/)
+
+---
+
 * **Astrodynamics & Mission Design:** Orbital Perturbation Superposition ($J_2$ – $J_4$, SRP, Drag, Three-Body), Lambert Targeting, CR3BP Dynamics, Systems Tool Kit (STK), ESATAN-TMS, ESA COMET
 * **Structural Mechanics & FEA:** ANSYS (Mechanical, APDL, Workbench, Thermal), Altair OptiStruct, Euler–Bernoulli Beam Theory, Newmark - $\beta$ Integration, Duffing Oscillators, Modal & Dynamic Analysis
 * **CAD, Mechanical Design & AIT:** SolidWorks, CATIA, NX-CAD (Unigraphics), Autodesk Inventor, AutoCAD, GD&T, DFMA, Ground Hot-Fire Testing, Pressure & Leak Checks
 * **Robotics, Vision & Autonomy:** Multi-Agent Task Allocation, $A^*$ Path Planning, YOLOv11x Object Detection, Embedded Systems (Raspberry Pi 4B, Arduino Uno)
-
 ---
 
 ## Featured Repositories
