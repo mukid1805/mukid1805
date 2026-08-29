@@ -4,8 +4,8 @@ Cranfield University, United Kingdom
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukid-valsangkar)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)]([https://orcid.org/YOUR_ORCID_ID](https://orcid.org/0009-0007-8845-1605))
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)]([https://www.researchgate.net](https://www.researchgate.net/profile/Mukid-Valsangkar))
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-8845-1605)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mukid-Valsangkar)
 
 <!-- 
 #[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com)
@@ -76,14 +76,12 @@ Aerospace Engineer with an MSc in Astronautics and Space Engineering (Distinctio
 ## Academic Publications & Conference Proceedings
 
 * **IAC-25:** Bonet Garcia, G., **Valsangkar, M.**, et al. (2025). *"Technology Demonstration of a Cooperative Heterogeneous Robotic System for Planetary Terrain Exploration."* 76th International Astronautical Congress (IAC), D1: IAF Space Systems Symposium, Interactive Presentation.  
-  [![DOI](https://img.shields.io/badge/DOI-181717?style=flat-square&logo=doi&logoColor=white)]([https://doi.org/YOUR_DOI_LINK](https://doi.org/10.52202/083091-0083))
-  [![PDF](https://img.shields.io/badge/PDF-181717?style=flat-square&logo=adobeacrobatreader&logoColor=white)]([https://your-link-to-paper.pdf](https://iafastro.directory/iac/paper/id/99824/summary/))
+  [![DOI](https://img.shields.io/badge/DOI-181717?style=flat-square&logo=doi&logoColor=white)](https://doi.org/10.52202/083091-0083)
+  [![Proceedings](https://img.shields.io/badge/IAF-Summary-181717?style=flat-square)](https://iafastro.directory/iac/paper/id/99824/summary/)
 
 * **ESA ASTRA:** Zhang, Z., **Valsangkar, M.**, et al. (2025). *"Cooperative Heterogeneous Robotic System for Lunar South Pole Mapping and Exploration."* 18th Symposium on Advanced Space Technologies in Robotics and Automation (ESA ASTRA 2025).  
-  [![PDF](https://img.shields.io/badge/PDF-181717?style=flat-square&logo=adobeacrobatreader&logoColor=white)]([https://your-link-to-paper.pdf](https://roboshare.esa.int/ASTRA/Astra2025/2025Papers/055_Zhang_Cooperative-Heterogeneous-Robotic-System-For-Lunar-South-Pole-Mapping-And-Exploration.pdf))
+  [![PDF](https://img.shields.io/badge/PDF-181717?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://roboshare.esa.int/ASTRA/Astra2025/2025Papers/055_Zhang_Cooperative-Heterogeneous-Robotic-System-For-Lunar-South-Pole-Mapping-And-Exploration.pdf)
 
 * **IJERA:** **Valsangkar, M.** and Pandit, H. (2024). *"Experimental Investigations of Yield Enhancement of Solanum tuberosum Using LED Lighting and Controlled Environment."* International Journal of Engineering Research and Applications, 14(4), pp. 185–192.  
-
-  [![PDF](https://img.shields.io/badge/PDF-181717?style=flat-square&logo=adobeacrobatreader&logoColor=white)]([https://www.ijera.com/papers/vol14no4/185-192.pdf](https://www.ijera.com/papers/vol14no4/1404185192.pdf))
-
+  [![PDF](https://img.shields.io/badge/PDF-181717?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://www.ijera.com/papers/vol14no4/1404185192.pdf)
 ---
