@@ -64,6 +64,9 @@ Aerospace Engineer with an MSc in Astronautics and Space Engineering and a bache
 ## Featured Repositories
 
 ### [NewtonianPropagator: Multi-Body Orbital Dynamics & Swarm Simulation Engine](https://github.com/mukid1805/NewtonianPropagator)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![CI Tests](https://github.com/mukid1805/NewtonianPropagator/actions/workflows/tests.yml/badge.svg)](https://github.com/mukid1805/NewtonianPropagator/actions/workflows/tests.yml)
+
 *Python, Numerical Methods, Astrodynamics, Automated CI/CD*
 * Modular 6-DOF/7-DOF numerical propagation engine with full environmental perturbation superposition ($J_2$ – $J_4$ geopotential harmonics, diurnal atmospheric drag, cannonball SRP with cylindrical umbra transitions, and third-body lunar gravity).
 * Interplanetary trajectory module including Universal Variable Lambert targeting, automated Porkchop plot generation, and 3D calendar grid-search optimization for multi-leg gravity assists ($\Delta v$ deficit and hyperbolic turning angle matching).
