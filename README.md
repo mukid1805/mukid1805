@@ -34,8 +34,10 @@ Aerospace Engineer with an MSc in Astronautics and Space Engineering and a bache
 
 ### Astrodynamics & Space Mission Design
 [![Ansys STK](https://img.shields.io/badge/Ansys_STK-181717?style=flat-square&logo=ansys&logoColor=white)](https://www.ansys.com/products/missions/ansys-stk)
-[![ESATAN-TMS](https://img.shields.io/badge/ESATAN--TMS-181717?style=flat-square)](https://www.itp-engines.co.uk/esatan-tms/)
-[![ESA COMET](https://img.shields.io/badge/ESA_COMET-181717?style=flat-square)](https://www.esa.int/)
+[![ESATAN-TMS](https://img.shields.io/badge/ESATAN--TMS-181717?style=flat-square)](https://www.esatan-tms.com/)
+[![ESA COMET](https://img.shields.io/badge/ESA_COMET-181717?style=flat-square)](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/COMET_upgrade_for_ESA_s_mission_design_centre)
+
+
 
 ### CAD, Mechanical Design & AIT
 [![SolidWorks](https://img.shields.io/badge/SolidWorks-181717?style=flat-square&logo=dassaultsystemes&logoColor=white)](https://www.solidworks.com/)
