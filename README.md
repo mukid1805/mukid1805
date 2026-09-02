@@ -72,7 +72,7 @@ Aerospace Engineer with an MSc in Astronautics and Space Engineering and a bache
 
 *Python, Numerical Methods, Astrodynamics, Automated CI/CD*
 
-* **Modular 6-DOF / 7-DOF Dynamics Engine:** Numerical propagation with full environmental perturbation superposition ($J_2\text{-}J_4$) geopotential harmonics, diurnal atmospheric drag, cannonball solar radiation pressure with cylindrical umbra transitions, and third-body lunar gravity.
+* **Modular 6-DOF / 7-DOF Dynamics Engine:** Numerical propagation with full environmental perturbation superposition ($J_2\text{-}J_4$) geopotential harmonics, diurnal atmospheric drag, solar radiation pressure with cylindrical umbra transitions, and third-body lunar gravity.
 * **Adaptive High-Precision Solvers:** Embedded Dormand-Prince (RK45) numerical integration featuring dynamic step-size selection and local truncation error (LTE) control alongside classical fixed-step RK4.
 * **Interplanetary Trajectory & Gravity Assists:** Universal Variable Lambert targeting, automated Porkchop plot generation, and 3D calendar grid-search optimization for multi-leg gravity assists with hyperbolic turning angle matching and powered $\Delta v$ deficit analysis.
 * **Cislunar Three-Body Mechanics (CR3BP):** Earth-Moon rotating synodic dynamics, root-finding solvers for collinear ($L_1, L_2, L_3$) and triangular ($L_4, L_5$) Lagrange points, and Jacobi integral ($C_J$) conservation tracking.
