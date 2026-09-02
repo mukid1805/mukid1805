@@ -57,7 +57,7 @@ Aerospace Engineer with an MSc in Astronautics and Space Engineering and a bache
 
 ---
 
-* **Astrodynamics & Mission Design:** Orbital Perturbation Superposition ($J_2$ – $J_4$, SRP, Drag, Three-Body), Lambert Targeting, CR3BP Dynamics, Systems Tool Kit (STK), ESATAN-TMS, ESA COMET
+* **Astrodynamics & Mission Design:** Orbital Perturbation Superposition ( $J_2$ – $J_4$, SRP, Drag, Three-Body), Lambert Targeting, CR3BP Dynamics, Systems Tool Kit (STK), ESATAN-TMS, ESA COMET
 * **Structural Mechanics & FEA:** ANSYS (Mechanical, APDL, Workbench, Thermal), Altair OptiStruct, Euler–Bernoulli Beam Theory, Newmark - $\beta$ Integration, Duffing Oscillators, Modal & Dynamic Analysis
 * **CAD, Mechanical Design & AIT:** SolidWorks, CATIA, NX-CAD (Unigraphics), Autodesk Inventor, AutoCAD, GD&T, DFMA, Ground Hot-Fire Testing, Pressure & Leak Checks
 * **Robotics, Vision & Autonomy:** Multi-Agent Task Allocation, $A^*$ Path Planning, YOLOv11x Object Detection, Embedded Systems (Raspberry Pi 4B, Arduino Uno)
@@ -68,13 +68,17 @@ Aerospace Engineer with an MSc in Astronautics and Space Engineering and a bache
 ### [NewtonianPropagator: Multi-Body Orbital Dynamics & Swarm Simulation Engine](https://github.com/mukid1805/NewtonianPropagator)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![CI Tests](https://github.com/mukid1805/NewtonianPropagator/actions/workflows/tests.yml/badge.svg)](https://github.com/mukid1805/NewtonianPropagator/actions/workflows/tests.yml)
+[![Release](https://img.shields.io/github/v/release/mukid1805/NewtonianPropagator?include_prereleases&color=blue&logo=github)](https://github.com/mukid1805/NewtonianPropagator/releases)
 
 *Python, Numerical Methods, Astrodynamics, Automated CI/CD*
-* Modular 6-DOF/7-DOF numerical propagation engine with full environmental perturbation superposition ($J_2$ – $J_4$ geopotential harmonics, diurnal atmospheric drag, cannonball SRP with cylindrical umbra transitions, and third-body lunar gravity).
-* Interplanetary trajectory module including Universal Variable Lambert targeting, automated Porkchop plot generation, and 3D calendar grid-search optimization for multi-leg gravity assists ($\Delta v$ deficit and hyperbolic turning angle matching).
-* Circular Restricted Three-Body Problem (CR3BP) Earth-Moon synodic dynamics, collinear/triangular Lagrange point root-solvers, and Jacobi integral conservation tracking.
-* Local-Vertical Local-Horizontal (LVLH / Hill's) frame coordinate transformations for multi-satellite swarm relative motion, with continuous low-thrust mass-depletion integration.
 
+* **Modular 6-DOF / 7-DOF Dynamics Engine:** Numerical propagation with full environmental perturbation superposition ($J_2\text{-}J_4$) geopotential harmonics, diurnal atmospheric drag, cannonball solar radiation pressure with cylindrical umbra transitions, and third-body lunar gravity.
+* **Adaptive High-Precision Solvers:** Embedded Dormand-Prince (RK45) numerical integration featuring dynamic step-size selection and local truncation error (LTE) control alongside classical fixed-step RK4.
+* **Interplanetary Trajectory & Gravity Assists:** Universal Variable Lambert targeting, automated Porkchop plot generation, and 3D calendar grid-search optimization for multi-leg gravity assists with hyperbolic turning angle matching and powered $\Delta v$ deficit analysis.
+* **Cislunar Three-Body Mechanics (CR3BP):** Earth-Moon rotating synodic dynamics, root-finding solvers for collinear ($L_1, L_2, L_3$) and triangular ($L_4, L_5$) Lagrange points, and Jacobi integral ($C_J$) conservation tracking.
+* **Relative Swarm Motion & Propulsion:** Local-Vertical Local-Horizontal (LVLH / Hill's frame) relative state transformations for multi-agent swarms, coupled with continuous low-thrust propulsion and dynamic mass depletion.
+
+<!-- 
 ## Engineering Projects & Technical Research
 
 ### Simulation of Flexible, Large-Scale Space Structures
@@ -108,7 +112,7 @@ Aerospace Engineer with an MSc in Astronautics and Space Engineering and a bache
 *Shivaji University | SolidWorks API, ANSYS Mechanical, Python, Operations Research*
 * Created a computational framework coupling SolidWorks parametric modeling, ANSYS Mechanical APDL, and Python numerical solvers to automate geometry regeneration and batch FEA execution.
 * Implemented constrained numerical optimization algorithms from Operations Research to iterate over high-dimensional design spaces, optimizing mechanical stiffness-to-weight ratios under strict stress and displacement boundaries.
-
+-->
 ---
 
 ## Academic Publications & Conference Proceedings
