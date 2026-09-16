@@ -127,4 +127,4 @@ Aerospace Engineer with an MSc in Astronautics and Space Engineering and a bache
 
 * **IJERA:** **Valsangkar, M.** and Pandit, H. (2024). *"Experimental Investigations of Yield Enhancement of Solanum tuberosum Using LED Lighting and Controlled Environment."* International Journal of Engineering Research and Applications, 14(4), pp. 185–192.  
   [![PDF](https://img.shields.io/badge/PDF-181717?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://www.ijera.com/papers/vol14no4/1404185192.pdf)
----
+
