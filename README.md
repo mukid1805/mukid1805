@@ -125,6 +125,9 @@ Aerospace Engineer with an MSc in Astronautics and Space Engineering and a bache
 * **ESA ASTRA:** Zhang, Z., **Valsangkar, M.**, et al. (2025). *"Cooperative Heterogeneous Robotic System for Lunar South Pole Mapping and Exploration."* 18th Symposium on Advanced Space Technologies in Robotics and Automation (ESA ASTRA 2025).  
   [![PDF](https://img.shields.io/badge/PDF-181717?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://roboshare.esa.int/ASTRA/Astra2025/2025Papers/055_Zhang_Cooperative-Heterogeneous-Robotic-System-For-Lunar-South-Pole-Mapping-And-Exploration.pdf)
 
+* **MSc Thesis:** **Valsangkar, M.** (2025). *"Accurate Simulation of Flexible, Large-Scale Space Structures."* Cranfield University (Master's Theses Archive).  
+  [![Archive](https://img.shields.io/badge/Cranfield_CERES-181717?style=flat-square&logo=academia&logoColor=white)](https://dspace.lib.cranfield.ac.uk/handle/1826/25846)
+
 * **IJERA:** **Valsangkar, M.** and Pandit, H. (2024). *"Experimental Investigations of Yield Enhancement of Solanum tuberosum Using LED Lighting and Controlled Environment."* International Journal of Engineering Research and Applications, 14(4), pp. 185–192.  
   [![PDF](https://img.shields.io/badge/PDF-181717?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://www.ijera.com/papers/vol14no4/1404185192.pdf)
 
